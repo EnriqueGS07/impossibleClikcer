@@ -10,7 +10,7 @@ but.addEventListener('mousemove', function(){
     but.style.left = newLeft;
 });
 
-but.addEventListener('click', function(){
-    alert("Lo lograste")
-    console.log("Lo lograste")
-})
+//but.addEventListener('click', function(){
+    //alert("Lo lograste")
+    //console.log("Lo lograste")
+//})
